@@ -2,15 +2,20 @@
 # Repository: https://github.com/mrclschstr/texstudio-de-badwords
 aber
 abermals
+ähnlich
 allein
 allem Anschein nach
 allemal
 allenfalls
 allenthalben
 aller-
+allerdings
 allesamt
+allgemein
+allmählich
 allzu
 also
+alt
 an sich
 an und für sich
 andauernd
@@ -20,6 +25,7 @@ anscheinend
 auch
 auf alle Fälle
 auffallend
+aufgrund
 aufrichtig gesprochen
 aufs neue
 augenscheinlich
@@ -29,40 +35,79 @@ ausnahmslos
 ausschließlich
 außerdem
 äußerst
+bald
 bei weitem
+beide
+beiden
+beiderlei
+beides
 beinahe
 bekanntlich
 bereits
 besonders
+besser
 bestenfalls
 bestimmt
+beträchtlich
 betreffend
+bevor
 bezüglich
+bisher
+bislang
 bloß
+da
 dabei
 dadurch
 dafür
 dagegen
 daher
+dahin
 damals
+damit
 danach
+daneben
+dank
+dann
 dann und wann
+daran
+darauf
+daraus
+darin
+darum
 das Schönste
+davon
+davor
+dazu
 demgegenüber
 demgemäß
 demnach
+demselben
 denkbar
 denn
 dennoch
+derart
+derartig
 des öfteren
 deshalb
+desto
 desungeachtet
 deswegen
+diesmal
+direkt
+direkte
+direkten
+direkter
 doch
 durchaus
 durchweg
 eben
+ebenfalls
+ebenso
 echt
+ehe
+eher
+eigenen
+eigenes
 eigentlich
 ein bisschen
 ein wenig
@@ -76,6 +121,7 @@ entsprechend
 erfolgreich
 ergo
 erheblich
+erst
 etliche
 etwa
 etwas
@@ -86,23 +132,30 @@ förmlich
 fortwährend
 fraglos
 freilich
+ganz
 ganz gerne
 ganz gewiss
 ganz und gar
 gänzlich
 gar
 gar nicht
+gefälligst
 gelegentlich
 gemeinhin
 genau
+genug
 gerade
 geradezu
+gern
 gewiss
 gewisse
 gewissermaßen
 gewöhnlich
 glatt
+gleich
 gleichsam
+gleichwohl
+gleichzeitig
 glücklicherweise
 gottseidank
 größtenteils
@@ -110,18 +163,24 @@ grundsätzlich
 halt
 hätte
 häufig
+herein
 hervorragend
 hie und da
 hier und da
+hiermit
+hiesige
 hingegen
 hinlänglich
+hinterher
 höchst
+höchstens
 ich glaube
 ich sage mal
 im allgemeinen
 im Grunde genommen
 im Prinzip
 immer
+immerhin
 immerzu
 in aller Deutlichkeit
 in der Regel
@@ -131,14 +190,21 @@ in etwa
 in gewisser Weise
 in Wahrheit
 indessen
+infolge
 infolgedessen
+innen
+innerhalb
 insbesondere
 insofern
 inzwischen
 irgend
 irgendein
+irgendeine
 irgendjemand
 irgendwann
+irgendwas
+irgendwen
+irgendwer
 irgendwie
 irgendwo
 ja
@@ -147,10 +213,20 @@ jede Menge
 jedenfalls
 jedoch
 jemals
+jetzt
 kaum
 keinesfalls
 keineswegs
+konkret
+konkrete
+konkreten
+konkreter
+konkretes
+könnte
+künftig
 längst
+längstens
+lassen
 lediglich
 leider
 letzten Endes
@@ -158,6 +234,8 @@ letztendlich
 letztlich
 mal
 man könnte sagen
+mancherorts
+manches
 manchmal
 maßgeblich
 mehr oder weniger
@@ -173,6 +251,10 @@ mithin
 mitunter
 möchte
 moderne
+möglich
+mögliche
+möglichen
+möglicher
 möglicherweise
 möglichst
 mutmaßlich
@@ -189,8 +271,11 @@ nichtsdestoweniger
 nie
 niemals
 normalerweise
+nötigenfalls
 nun
+nunmehr
 nur
+oder
 offenbar
 offenkundig
 offensichtlich
@@ -219,7 +304,9 @@ rundum
 sag ich doch
 sag ich jetzt mal so
 sagen wir mal
+samt
 samt und sonders
+sämtliche
 sattsam
 schlicht
 schlichtweg
@@ -228,6 +315,7 @@ schlussendlich
 schon
 schwerlich
 sehr
+selber
 selbst
 selbstredend
 selbstverständlich
@@ -245,6 +333,11 @@ sozusagen
 stellenweise
 stets
 streng
+tatsächlich
+tatsächlichen
+tatsächlicher
+tatsächliches
+total
 trotzdem
 überaus
 überdies
@@ -283,24 +376,64 @@ von neuem
 vor Ort
 wahrscheinlich
 weidlich
+weitem
+weiter
+weitere
+weiterem
+weiteren
+weiterer
+weiteres
+weiterhin
 weitgehend
+welche
+welchem
+welchen
+welcher
+wenig
 wenige
+weniger
 wenigstens
+wenn
+wenngleich
+weshalb
 wie man sich leicht vorstellen kann
 wieder
 wieder einmal
 wiederum
+wiewohl
 wirklich
+wodurch
+wogegen
+woher
+wohin
+wohingegen
 wohl
 wohlgemerkt
+wohlweislich
+wollen
+wollt
+wollte
+wollten
+wolltest
+wolltet
+womit
 womöglich
+woraufhin
+woraus
+worin
+wurde
+würden
+zahlreich
+zeitweise
 ziemlich
 zudem
 zugegeben
 zumeist
 zunächst
 zusehends
+zusehens
 zuweilen
+zwar
 zweifellos
 zweifelsfrei
 zweifelsohne
