@@ -1,0 +1,1 @@
+# texstudio-de-badwords
