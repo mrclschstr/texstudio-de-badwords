@@ -14,7 +14,7 @@ Zudem sind auch viele **unbestimmte Mengenangaben** (Ironie?) enthalten, um eine
  - Es kann ~~manchmal~~ dazu führen, dass...
  - Es kommt daher ~~meistens~~ zum Problem...
 
-Die Liste hat generell **keinen Anspruch auf Vollständigkeit**, auch wenn sie bereits viele -- oft pingelige -- Wörter enthält. Jede Wortmarkierung sollte daher auch **nicht blind gestrichen** werden; eine manuelle Nachprüfung ist in jedem Fall erforderlich! Die Idee ist es, dem Autor einen Hinweis auf mögliche Satzfüller zu geben.
+Die Liste hat generell **keinen Anspruch auf Vollständigkeit**, auch wenn sie bereits viele (oft pingelige) Wörter enthält. Jede Wortmarkierung sollte daher auch **nicht blind gestrichen** werden; eine manuelle Nachprüfung ist in jedem Fall erforderlich! Die Idee ist es, dem Autor einen Hinweis auf mögliche Satzfüller zu geben.
 
 Es fehlen wichtige Wörter? Bitte erstelle einen Pull Request! Weitere gute Hinweise für Autoren zur Textverbesserung finden sich unter: <http://www.schreiblabor.com/>.
 
