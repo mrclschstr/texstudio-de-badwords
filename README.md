@@ -22,7 +22,7 @@ Es fehlen wichtige Wörter? Bitte erstelle einen Pull Request! Weitere gute Hinw
 
 Für die Installation unter **Microsoft Windows** muss die Datei `de_DE.badWords` in den Ordner `C:\Program Files (x86)\TeXstudio\dictionaries`. Für **Linux** und **macOS** sollte dies analog funktionieren.
 
-Anschließend sind folgende Einstellungen in TeXstudio unter `Optionen` > `TeXstudio konfigurieren...` > `Sprache prüfen` > `Eingebaute Grammatikprüfung` vorzunehmen:
+Anschließend sind folgende Einstellungen in TeXstudio unter `Optionen -> TeXstudio konfigurieren... -> Sprache prüfen -> Eingebaute Grammatikprüfung` vorzunehmen:
 
  - **Prüfe auf "schlechte" Worte** anhaken
  - **Wortlistenverzeichnis:** `C:\Program Files (x86)\TeXstudio\dictionaries`
@@ -33,6 +33,6 @@ Grundsätzlich sollte die Bad Word Liste auch für andere LaTeX Editoren benutzb
 
 Neben "eigenen" Wörtern wurde die Bad Word Liste mit Wörtern aus folgenden Quellen angereichert:
 
-- https://juttas-schreibtipps.blogspot.de/2006/07/giftliste-i-fllwrter.html
-- https://juttas-schreibtipps.blogspot.de/2011/09/giftliste-iv-noch-mehr-fullworter.html
-- http://www.schreiblabor.com/
+- <https://juttas-schreibtipps.blogspot.de/2006/07/giftliste-i-fllwrter.html>
+- <https://juttas-schreibtipps.blogspot.de/2011/09/giftliste-iv-noch-mehr-fullworter.html>
+- <http://www.schreiblabor.com/>
