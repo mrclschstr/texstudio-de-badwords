@@ -19,9 +19,11 @@ Die Liste hat generell **keinen Anspruch auf Vollständigkeit**, auch wenn sie b
 Es fehlen wichtige Wörter? Bitte erstelle einen Pull Request! Weitere gute Hinweise für Autoren zur Textverbesserung finden sich unter: <http://www.schreiblabor.com/>.
 
 #### Erweiterung
-Füge Wörter hinzu und sortiere Liste alphabetisch.
-Es wird nur ein Wort pro Zeile erkannt.
-Lösche doppelte Wörter durch Suchen `^(.*)(\n\1)+$` und Ersetzen `$1`.
+* Füge Wörter hinzu und sortiere Liste alphabetisch. Es wird nur ein Wort pro Zeile erkannt. 
+* Wandle alle Buchstaben in klein geschriebene um.
+* Lösche doppelte Wörter durch Suchen `^(.*)(\n\1)+$` und Ersetzen `$1`.
+* Ergänze für jedes Wort eines mit groß geschriebenen Anfangsbuchstaben hinzu. 
+    Führe dazu auf der Kommandozeile `sed -i 's/^\(.*\)$/\1\n\u\1/' de_DE.badWords` aus.
 
 ## Installation
 
@@ -31,6 +33,8 @@ Anschließend sind folgende Einstellungen in TeXstudio unter `Optionen -> TeXstu
 
  - **Prüfe auf "schlechte" Worte** anhaken
  - **Wortlistenverzeichnis:** `C:\Program Files (x86)\TeXstudio\dictionaries`
+
+Starte TeXstudio jetzt neu.
 
 Der Präfix der der Datei (`de_DE`) muss mit dem Namen der eingestellten Sprache übereinstimmen.
 Bennene die Datei andernfalls um. 
