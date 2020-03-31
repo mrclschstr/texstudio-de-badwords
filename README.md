@@ -18,6 +18,11 @@ Die Liste hat generell **keinen Anspruch auf Vollständigkeit**, auch wenn sie b
 
 Es fehlen wichtige Wörter? Bitte erstelle einen Pull Request! Weitere gute Hinweise für Autoren zur Textverbesserung finden sich unter: <http://www.schreiblabor.com/>.
 
+#### Erweiterung
+Füge Wörter hinzu und sortiere Liste alphabetisch.
+Es wird nur ein Wort pro Zeile erkannt.
+Lösche doppelte Wörter durch Suchen `^(.*)(\n\1)+$` und Ersetzen `$1`.
+
 ## Installation
 
 Für die Installation unter **Microsoft Windows** muss die Datei `de_DE.badWords` in den Ordner `C:\Program Files (x86)\TeXstudio\dictionaries`. Für **Linux** und **macOS** sollte dies analog funktionieren.
@@ -26,6 +31,9 @@ Anschließend sind folgende Einstellungen in TeXstudio unter `Optionen -> TeXstu
 
  - **Prüfe auf "schlechte" Worte** anhaken
  - **Wortlistenverzeichnis:** `C:\Program Files (x86)\TeXstudio\dictionaries`
+
+Der Präfix der der Datei (`de_DE`) muss mit dem Namen der eingestellten Sprache übereinstimmen.
+Bennene die Datei andernfalls um. 
 
 Grundsätzlich sollte die Bad Word Liste auch für andere LaTeX Editoren benutzbar sein. Leider fehlt mir da die Expertise; erstelle gerne einen Pull Request!
 
@@ -36,3 +44,7 @@ Neben "eigenen" Wörtern wurde die Bad Word Liste mit Wörtern aus folgenden Que
 - <https://juttas-schreibtipps.blogspot.de/2006/07/giftliste-i-fllwrter.html>
 - <https://juttas-schreibtipps.blogspot.de/2011/09/giftliste-iv-noch-mehr-fullworter.html>
 - <http://www.schreiblabor.com/>
+- <https://www.topcorrect.de/blog/tabuwoerter-in-wissenschaftlichen-arbeiten/>
+- <https://www.indoition.com/de/technical-writing-companion-de/de_schwarze_liste_fuellwoerter.html>
+- <https://www.scribbr.de/wissenschaftliches-schreiben/verbotene-woerter-in-einer-abschlussarbeit/>
+- <https://www.indoition.com/de/technical-writing-companion-de/de_schwarze_liste_blaehwoerter.html>
