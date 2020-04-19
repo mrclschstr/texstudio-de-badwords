@@ -37,7 +37,7 @@ Anschließend sind folgende Einstellungen in TeXstudio unter `Optionen -> TeXstu
 Starte TeXstudio jetzt neu.
 
 Der Präfix der der Datei (`de_DE`) muss mit dem Namen der eingestellten Sprache übereinstimmen.
-Bennene die Datei andernfalls um. 
+Bennene die Datei andernfalls um. Falls beispielsweise die erweiterte Liste verwendet werden soll, benenne `de_DE.badWords` in `de_DE_small.badWords` um und anschließend `de_DE_extended.badWords` in `de_DE.badWords`. Starte TeXstudio neu.
 
 Grundsätzlich sollte die Bad Word Liste auch für andere LaTeX Editoren benutzbar sein. Leider fehlt mir da die Expertise; erstelle gerne einen Pull Request!
 
