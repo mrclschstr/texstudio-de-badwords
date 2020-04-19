@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2018 Marcel Schuster
+Copyright (c) the authors, https://github.com/mrclschstr/texstudio-de-badwords
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
